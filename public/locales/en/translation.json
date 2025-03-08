@@ -1,0 +1,36 @@
+{
+    "header": {
+        "home": "Home",
+        "collections": "Collections",
+        "categories": "Categories",
+        "ourStory": "Our Story",
+        "contactUs": "Contact Us"
+    },
+    "breadcrumb": {
+        "bracelet": "Bracelet"
+    },
+    "products": {
+        "showingResults": "Showing {{start}}-{{end}} of {{total}} results"
+    },
+    "filters": {
+        "filterOption": "Filter Option",
+        "categories": "Categories",
+        "rings": "Rings",
+        "chains": "Chains",
+        "earring": "Earring",
+        "brooches": "Brooches",
+        "material": "Material",
+        "gold": "Gold",
+        "silver": "Silver",
+        "platinum": "Platinum",
+        "sizes": "Sizes",
+        "price": "Price",
+        "apply": "Apply",
+        "clearAll": "Clear All",
+        "AED":"AED"
+    },
+    "language": {
+        "english": "English",
+        "arabic": "Arabic"
+    }
+}

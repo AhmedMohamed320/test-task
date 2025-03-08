@@ -1,0 +1,36 @@
+{
+    "header": {
+        "home": "الرئيسية",
+        "collections": "التشكيلات",
+        "categories": "التصنيفات",
+        "ourStory": "قصتنا",
+        "contactUs": "اتصل بنا"
+    },
+    "breadcrumb": {
+        "bracelet": "سوار"
+    },
+    "products": {
+        "showingResults": "عرض {{start}}-{{end}} من أصل {{total}} نتيجة"
+    },
+    "filters": {
+        "filterOption": "خيارات التصفية",
+        "categories": "التصنيفات",
+        "rings": "خواتم",
+        "chains": "سلاسل",
+        "earring": "أقراط",
+        "brooches": "بروشات",
+        "material": "المادة",
+        "gold": "ذهب",
+        "silver": "فضة",
+        "platinum": "بلاتين",
+        "sizes": "المقاسات",
+        "price": "السعر",
+        "apply": "تطبيق",
+        "clearAll": "مسح الكل",
+        "AED":"درهم"
+    },
+    "language": {
+        "english": "الإنجليزية",
+        "arabic": "العربية"
+    }
+}
